@@ -1,1 +1,2 @@
 # fundamentos-de-git
+# Conocer los fundamentos del control de versiones GIT. Realizar acciones básicas de GIT (Crear un repositorio, pull, push, merge). Conocer los fundamentos de un flujo de trabajo con GIT (GitFlow)
